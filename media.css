@@ -1,0 +1,9 @@
+@media (max-width:600px) {
+    nav ul{
+       display: none;
+    }
+    .content .left{
+        width: 100%;
+        font-size: 10px;
+    }
+}

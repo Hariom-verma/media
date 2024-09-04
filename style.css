@@ -135,6 +135,10 @@ nav p{
     align-items: center;
   
 }
+.slider img{
+    height: 200px;
+  
+}
 
 @keyframes scroll {
     from{
